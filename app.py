@@ -7,3 +7,5 @@ luas = a * t / 2
 print ("luas segitiga adalah: ",luas)
 
 luas_segitiga()
+
+Tambah_data()
